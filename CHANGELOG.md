@@ -1,3 +1,9 @@
+## [2.7.1] - 2025-01-19
+* Updated package name to `html_editor_enhanced_flutterflow` for FlutterFlow compatibility
+* Updated file_picker dependency from ^9.2.3 to ^10.1.9
+* Updated repository links and asset paths for new package name
+* FlutterFlow compatible version with all dependencies updated
+
 ## [2.7.0] = 2025-06-14
 * Fix deprecations in latest Flutter versions
 * Update dependencies
