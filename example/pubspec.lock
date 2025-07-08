@@ -232,13 +232,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  html_editor_enhanced:
+  html_editor_enhanced_flutterflow:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "2.7.0"
+    version: "2.7.1"
   infinite_listview:
     dependency: transitive
     description:
